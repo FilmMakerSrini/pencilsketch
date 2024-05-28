@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HCD Login</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='signup.css') }}">
+</head>
+<body>
+    <div class="background-image"></div>
+    <div class="container">
+        <div class="form-container">
+            <h1>Shordan</h1>
+            <h2> Login</h2>
+            <form action="{{ url_for('login') }}" method="post" >
+                <input type="text" id="username" placeholder="Username" required name="username">
+                <input type="password" id="password" placeholder="Password" required name="password">
+                <button class="submitbutton" type="submit">Login</button>
+            </form>
+            <p class="signup-link">New User? <a href="signup.html">Sign Up Here</a></p>
+            <p id="errorText" class="error-message"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
