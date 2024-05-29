@@ -88,6 +88,11 @@ def convert_to_sketch(image):
     return sketch
 
 
+@app.route('/bot')
+def bot():
+    return render_template('bot.html')
+
+
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
@@ -115,6 +120,8 @@ def upload_file():
 @app.route('/show_sketch/<filename>')
 def show_sketch(filename):
     return render_template('result.html', sketch_url=url_for('static', filename=filename))
+
+
 
 if __name__ == '__main__':
     create_table(create_connection())
