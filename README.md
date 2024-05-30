@@ -32,3 +32,19 @@ Azure Integration: Uses Azure Web App for hosting and Azure Monitor for tracking
 3. srinivas rajesh  -- read me file
 4. rajkumar v  -- Backend and flask app
 
+# Screen Short
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/78784466-4abb-4251-94e9-876234d38c3c)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/581ec8f7-a78f-4a2d-84b1-68e783ab7bd9)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/69e47e04-d667-4a16-a8b7-d5c5ab8a69ad)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/9b530b28-655a-4fc9-93a0-e6b714c4cd8b)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/6e6bf12a-0887-4e3c-9a96-af4bbda73b9b)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/1f9ae40a-a076-42ce-8b5e-e596b3842fde)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/c2293837-a6fb-4431-bd23-f11ce989ee25)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/606f9855-03f1-4fd6-b9d0-8306a3d09c4c)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/8d9993e2-f141-4bdf-81dd-99be18fb814d)
+![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/22149e93-3d95-44a3-89b2-88b7652a5394)
+
+
+# demo url https://penskech.azurewebsites.net/
+
+## video url
