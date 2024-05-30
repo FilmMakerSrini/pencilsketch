@@ -47,4 +47,4 @@ Azure Integration: Uses Azure Web App for hosting and Azure Monitor for tracking
 
 # demo url https://penskech.azurewebsites.net/
 
-## video url
+## video url https://youtu.be/TLCq5IH6oOU
