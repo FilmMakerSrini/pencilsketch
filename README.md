@@ -45,6 +45,7 @@ Azure Integration: Uses Azure Web App for hosting and Azure Monitor for tracking
 ![image](https://github.com/FilmMakerSrini/pencilsketch/assets/135335227/22149e93-3d95-44a3-89b2-88b7652a5394)
 
 
-# demo url https://penskech.azurewebsites.net/
+# demo url https://pencilputhon.azurewebsites.net/
 
-## video url https://youtu.be/TLCq5IH6oOU
+## video url 
+https://www.youtube.com/watch?v=1eMzqOz166Q
