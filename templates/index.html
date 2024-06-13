@@ -81,12 +81,13 @@
 
     </nav>
     <div class="container">
-        <h1>Upload Image for Pencil Sketch</h1>
+        <h1>Upload Image for Pencil Sketch - {{username}}</h1>
         <form action="/upload" method="post" enctype="multipart/form-data">
 
             <input type="file" name="file" accept="image/*">
             <button type="submit">Upload</button>
             <button><a href="/bot">Bot</a></button>
+            <br><center><button ><a href="/logout">logout</a></button></center>
         </form>
     </div>
 

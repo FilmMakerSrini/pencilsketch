@@ -59,7 +59,7 @@ def login():
 
         if user:
             session['username'] = user[1]  # Store the username in the session
-            return render_template("index.html")  # You can redirect to a dashboard page or any other page here
+            return render_template("index.html" ,username=username)  # You can redirect to a dashboard page or any other page here
         else:
             return 'Invalid username or password'
 
@@ -70,6 +70,11 @@ def login():
 @app.route('/')
 def index():
     return render_template('signup.html')
+
+@app.route('/logout')
+def logout():
+    if "username" in session:
+         return render_template('login.html')
 
 
 app.config['UPLOAD_FOLDER'] = 'static'
